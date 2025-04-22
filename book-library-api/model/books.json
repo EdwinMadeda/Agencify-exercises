@@ -1,0 +1,20 @@
+[
+  {
+    "id": 2,
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "year": "1813"
+  },
+  {
+    "id": 3,
+    "title": "Catch 22",
+    "author": "Joseph Heller",
+    "year": "1949"
+  },
+  {
+    "id": 4,
+    "title": "Fourth Wing",
+    "author": "Rebecca Yarros",
+    "year": "2023"
+  }
+]
