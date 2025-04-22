@@ -8,7 +8,20 @@ I attempted this question and was able to identify the consecutive numbers withi
 
 ## Q2: Book Library API
 
+**Framework/Libraries:** Express.js
+
 Focused the majority of my time on this question as it aligns with my existing experience and comfort level. I drew upon my existing knowledge and some online resources to ensure I covered all the required CRUD operations and basic error handling effectively.I made a conscious effort to showcase clean code practices, robust error handling, and a well-structured API design.
+
+**API Endpoints:**
+
+- `POST /books`: Add a new book
+- `GET /books`: List all books.
+- `GET /books/:id`: Get a specific book by ID.
+- `PUT /books/:id`: Update book information
+- `DELETE /books/:id`: Delete a book by its ID.
+- **Bonus (if implemented):**
+  - `GET /books?title=[search_term]`: Search for books by title.
+  - `GET /books?author=[search_term]`: Search for books by author.
 
 ## Q3: Debugging Fibonacci Function
 
